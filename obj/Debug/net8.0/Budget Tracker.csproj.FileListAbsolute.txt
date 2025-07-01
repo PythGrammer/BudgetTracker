@@ -1,0 +1,28 @@
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\bin\Debug\net8.0\Budget Tracker.exe
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\bin\Debug\net8.0\Budget Tracker.deps.json
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\bin\Debug\net8.0\Budget Tracker.runtimeconfig.json
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\bin\Debug\net8.0\Budget Tracker.dll
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\bin\Debug\net8.0\Budget Tracker.pdb
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\obj\Debug\net8.0\Budget Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\obj\Debug\net8.0\Budget Tracker.AssemblyInfoInputs.cache
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\obj\Debug\net8.0\Budget Tracker.AssemblyInfo.cs
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\obj\Debug\net8.0\Budget Tracker.csproj.CoreCompileInputs.cache
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\obj\Debug\net8.0\Budget Tracker.dll
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\obj\Debug\net8.0\refint\Budget Tracker.dll
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\obj\Debug\net8.0\Budget Tracker.pdb
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\obj\Debug\net8.0\Budget Tracker.genruntimeconfig.cache
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\obj\Debug\net8.0\ref\Budget Tracker.dll
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\bin\Debug\net8.0\Budget Tracker.exe
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\bin\Debug\net8.0\Budget Tracker.deps.json
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\bin\Debug\net8.0\Budget Tracker.runtimeconfig.json
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\bin\Debug\net8.0\Budget Tracker.dll
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\bin\Debug\net8.0\Budget Tracker.pdb
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\obj\Debug\net8.0\Budget Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\obj\Debug\net8.0\Budget Tracker.AssemblyInfoInputs.cache
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\obj\Debug\net8.0\Budget Tracker.AssemblyInfo.cs
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\obj\Debug\net8.0\Budget Tracker.csproj.CoreCompileInputs.cache
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\obj\Debug\net8.0\Budget Tracker.dll
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\obj\Debug\net8.0\refint\Budget Tracker.dll
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\obj\Debug\net8.0\Budget Tracker.pdb
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\obj\Debug\net8.0\Budget Tracker.genruntimeconfig.cache
+C:\Users\belin\OneDrive - HTL Vöcklabruck\J2\workspace\Budget Tracker\Budget Tracker\obj\Debug\net8.0\ref\Budget Tracker.dll
