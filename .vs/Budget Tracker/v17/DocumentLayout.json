@@ -7,20 +7,8 @@
       "RelativeMoniker": "D:0:0:{6F19D537-34D4-49FC-A742-70B01569192F}|Budget Tracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F19D537-34D4-49FC-A742-70B01569192F}|Budget Tracker.csproj|c:\\users\\belin\\onedrive - htl v\u00F6cklabruck\\j2\\workspace\\budget tracker\\budget tracker\\defaulttestdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6F19D537-34D4-49FC-A742-70B01569192F}|Budget Tracker.csproj|solutionrelative:defaulttestdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F19D537-34D4-49FC-A742-70B01569192F}|Budget Tracker.csproj|c:\\users\\belin\\onedrive - htl v\u00F6cklabruck\\j2\\workspace\\budget tracker\\budget tracker\\default.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6F19D537-34D4-49FC-A742-70B01569192F}|Budget Tracker.csproj|solutionrelative:default.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F19D537-34D4-49FC-A742-70B01569192F}|Budget Tracker.csproj|c:\\users\\belin\\onedrive - htl v\u00F6cklabruck\\j2\\workspace\\budget tracker\\budget tracker\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F19D537-34D4-49FC-A742-70B01569192F}|Budget Tracker.csproj|C:\\Users\\belin\\OneDrive - HTL V\u00F6cklabruck\\J2\\workspace\\Budget Tracker\\Budget Tracker\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F19D537-34D4-49FC-A742-70B01569192F}|Budget Tracker.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F19D537-34D4-49FC-A742-70B01569192F}|Budget Tracker.csproj|c:\\users\\belin\\onedrive - htl v\u00F6cklabruck\\j2\\workspace\\budget tracker\\budget tracker\\settings.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6F19D537-34D4-49FC-A742-70B01569192F}|Budget Tracker.csproj|solutionrelative:settings.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +28,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\belin\\OneDrive - HTL V\u00F6cklabruck\\J2\\workspace\\Budget Tracker\\Budget Tracker\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAPkAAAAAAAAAAAAkwAkBAAAaAAAA",
+              "ViewState": "AQIAANgCAAAAAAAAAAAAAOQCAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T16:47:06.367Z",
               "IsPinned": true,
@@ -48,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\belin\\OneDrive - HTL V\u00F6cklabruck\\J2\\workspace\\Budget Tracker\\Budget Tracker\\Transaction.cs",
               "RelativeDocumentMoniker": "Transaction.cs",
@@ -58,45 +46,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T16:47:02.703Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DefaultTestData.txt",
-              "DocumentMoniker": "C:\\Users\\belin\\OneDrive - HTL V\u00F6cklabruck\\J2\\workspace\\Budget Tracker\\Budget Tracker\\DefaultTestData.txt",
-              "RelativeDocumentMoniker": "DefaultTestData.txt",
-              "ToolTip": "C:\\Users\\belin\\OneDrive - HTL V\u00F6cklabruck\\J2\\workspace\\Budget Tracker\\Budget Tracker\\DefaultTestData.txt",
-              "RelativeToolTip": "DefaultTestData.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-01T19:22:06.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "default.txt",
-              "DocumentMoniker": "C:\\Users\\belin\\OneDrive - HTL V\u00F6cklabruck\\J2\\workspace\\Budget Tracker\\Budget Tracker\\default.txt",
-              "RelativeDocumentMoniker": "default.txt",
-              "ToolTip": "C:\\Users\\belin\\OneDrive - HTL V\u00F6cklabruck\\J2\\workspace\\Budget Tracker\\Budget Tracker\\default.txt",
-              "RelativeToolTip": "default.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-01T19:21:50.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Settings.txt",
-              "DocumentMoniker": "C:\\Users\\belin\\OneDrive - HTL V\u00F6cklabruck\\J2\\workspace\\Budget Tracker\\Budget Tracker\\Settings.txt",
-              "RelativeDocumentMoniker": "Settings.txt",
-              "ToolTip": "C:\\Users\\belin\\OneDrive - HTL V\u00F6cklabruck\\J2\\workspace\\Budget Tracker\\Budget Tracker\\Settings.txt",
-              "RelativeToolTip": "Settings.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-01T18:13:18.34Z",
               "EditorCaption": ""
             },
             {
